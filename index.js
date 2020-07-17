@@ -6,7 +6,7 @@
 document.addEventListener("DOMContentLoaded", function() {
   console.log("The DOM has loaded");
   let pText = document.getElementById('text');
-  pText.innerHTML = "This is really cool!"
+  pText.innerHTML = "This is really cool!";
 });
 
 console.log(
